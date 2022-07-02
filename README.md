@@ -1,0 +1,2 @@
+# 2ES2_bot
+This is a telegram bot that manages the chat (filters bad speech in messages, gives administrator rights, and much more). Initially, I created this bot to help my group during quarantine so that they would not miss lessons. This bot program is very dear to me, because at the moment when I graduated from school, I begin to remember the days when this program worked every morning and helped my teachers, these are very valuable memories that I would like to capture here.
